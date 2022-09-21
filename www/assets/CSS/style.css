@@ -1,0 +1,28 @@
+
+header {
+    background-color: #24aa94;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    height: 500px;
+}
+
+nav {
+    height: 300px;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+section {
+    background-color: #f2f2f2;
+    padding-top: 30px;
+}
+
+footer {
+    background-color:#2f2f2f2f;
+    color: #ffffff;
+    text-align: center;
+    height: 80px;
+}
+
+
